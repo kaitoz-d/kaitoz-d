@@ -1,45 +1,29 @@
-# 👋 Hi, I'm Kauan
+## 📊 GitHub Activity
 
-🐍 Python Developer in progress  
-💻 Passionate about programming, technology and software development.
+🚀 Currently building Python projects and improving my programming skills.
 
-I'm currently learning Python and building projects to improve my skills.
+## 🛠️ Skills
 
----
+- 🐍 Python
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🔧 Git & GitHub
+- 💻 VS Code
 
-## 🚀 Technologies & Tools
+## 🚀 Projects
 
-🐍 Python  
-🌐 HTML  
-🎨 CSS  
-⚡ JavaScript  
-🔧 Git & GitHub  
-💻 VS Code  
+### 🐍 Python Learning Projects
+A collection of my Python exercises and projects while learning programming.
 
----
-
-## 📚 Currently Learning
-
-- Python Development
-- Object-Oriented Programming
-- Backend Development
-- Algorithms and Data Structures
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaitoz-d&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoz-d&layout=compact&theme=tokyonight&hide_border=true)
+### 🚗 Driver Verification System
+A Python program using conditions, user input and logical operations.
 
 ## 🎯 Goals
 
-🚀 Build real-world projects  
-🌎 Become a professional software developer  
-🤝 Contribute to open-source projects  
+- Become a professional software developer
+- Build real-world applications
+- Improve my backend development skills
+- Contribute to open-source projects
 
 ---
 
