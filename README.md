@@ -1,6 +1,6 @@
 ## 📊 GitHub Activity
 
-🚀 Currently building Python projects and improving my programming skills.
+🚀 Building Python projects and developing my software engineering skills.
 
 ## 🛠️ Skills
 
