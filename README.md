@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaitoz
+# 👋 Hi, I'm Kauan
 
 🐍 Python Developer in progress  
 💻 Passionate about programming, technology and software development.
