@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaitoz
 
-<!--
-**kaitoz-d/kaitoz-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer in progress  
+💻 Passionate about programming, technology and software development.
 
-Here are some ideas to get you started:
+I'm currently learning Python and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+🐍 Python  
+🌐 HTML  
+🎨 CSS  
+⚡ JavaScript  
+🔧 Git & GitHub  
+💻 VS Code  
+
+---
+
+## 📚 Currently Learning
+
+- Python Development
+- Object-Oriented Programming
+- Backend Development
+- Algorithms and Data Structures
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaitoz-d&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoz-d&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+🚀 Build real-world projects  
+🌎 Become a professional software developer  
+🤝 Contribute to open-source projects  
+
+---
+
+⭐ Always learning, always building.
