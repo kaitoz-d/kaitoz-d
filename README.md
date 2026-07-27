@@ -45,34 +45,9 @@ A collection of my Python exercises and programming studies.
 - Improve my backend and front-end development skills
 - Contribute to open-source projects
 
-<br>
 
-## 📈 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaitoz-d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitoz-d&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoz-d&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaitoz-d&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
-
-</div>
-
-<br>
 
 ## 📫 Contact
 
